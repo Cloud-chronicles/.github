@@ -7,7 +7,7 @@ Whether you're an experienced cloud professional or just starting to explore the
 
 So why not start exploring our repositories, participating in discussions, and sharing your knowledge with the rest of us? Let's build a better future for cloud computing together!
 
-# Cloud Chronicles
+#### Cloud Chronicles
 <!--
 
 **Here are some ideas to get you started:**
